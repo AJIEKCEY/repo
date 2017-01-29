@@ -1,1 +1,2 @@
 alert("Wellcome");
+alert("how do you do?")
